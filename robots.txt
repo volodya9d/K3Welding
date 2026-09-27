@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://k3welding-serbia.volodya-d90.chatgpt.site/sitemap.xml
